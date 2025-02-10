@@ -56,3 +56,7 @@ https://www.runoob.com/vscode/vscode-windows-install.html
 ![alt text](image-1.png)
 参考链接 
 【pyqt串口合集】 https://www.bilibili.com/video/BV15R4y1s7JD/?p=9&share_source=copy_web&vd_source=9d8f33227e43b7e7beef9eeeb2a1d8b7
+## 我的问题 
+中文显示 没有优化好会乱码
+
+
