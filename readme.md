@@ -39,9 +39,6 @@ index-url = https://pypi.tuna.tsinghua.edu.cn/simple
 [install]
 trusted-host = pypi.tuna.tsinghua.edu.cn
 对于 Windows 系统，可以在用户目录下创建或修改 C:\Users\<用户名>\pip\pip.ini 文件，内容同上
-1
-2
-。
 -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 
